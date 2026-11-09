@@ -57,7 +57,7 @@
       "enabled": true,
       "x": 50,
       "y": 43,
-      "layout": "aura-rows",
+      "layout": "masonry",
       "highlightsEnabled": true,
       "highlightsCount": 6,
       "galleryDisplay": "expanded",
